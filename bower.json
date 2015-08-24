@@ -1,0 +1,21 @@
+{
+  "name": "Basic Template",
+  "version": "0.0.0",
+  "homepage": "index.html",
+  "authors": [
+    "aungcvt"
+  ],
+  "description": "Bootstrap basic template",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
